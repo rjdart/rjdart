@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rjdart
 - 👀 I’m interested in Coding as a Developer.
-- 🌱 I’m currently learning CS50 Harvard Online.
+- 🌱 I’m currently completing CS50 Harvard Online.
 - 💞️ I’m looking to collaborate on Projects.
 - 📫 How to reach me rjdart@rjdarts.com.au
 - 😄 Pronouns: "Any just dont call me late, for dinner!!"
