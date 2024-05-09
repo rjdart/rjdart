@@ -3,7 +3,7 @@
 - 🌱 I’m currently completing CS50 Harvard Online.
 - 💞️ I’m looking to collaborate on Projects.
 - 📫 How to reach me rjdart@rjdarts.com.au
-- 😄 Pronouns: "Any just dont call me late, for dinner!!"
+- 😄 Pronouns: "Any; just dont call me late, for dinner!!"
 - ⚡ Fun fact: Drones, are unstable above water.
 
 <!---
